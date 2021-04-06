@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pezu-git/ArrayBuffer.git"
+    "url": "git+https://github.com/Pezu-git/unit-test.git"
   },
   "author": "pezu-git",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pezu-git/ArrayBuffer/issues"
+    "url": "https://github.com/Pezu-git/unit-test/issues"
   },
-  "homepage": "https://github.com/Pezu-git/ArrayBuffer#readme",
+  "homepage": "https://github.com/Pezu-git/unit-test#readme",
   "devDependencies": {
     "@babel/cli": "^7.12.16",
     "@babel/core": "^7.12.16",
@@ -29,13 +29,12 @@
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
     "jest": "^26.6.3",
-    "live-server": "^1.2.1"
-  },
-  "dependencies": {
-    "-": "0.0.1",
-    "core-js": "^3.8.3",
-    "webpack": "^5.27.1",
+    "live-server": "^1.2.1",
+    "webpack": "^5.22.0",
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3"
   }
 }
