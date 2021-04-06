@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable no-undef */
 
-import Team from '../js/index.js';
+import Team from '../index.js';
 
 test('Team-iterators_test', () => {
   const team = new Team();
